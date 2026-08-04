@@ -5,7 +5,7 @@ Repository นี้รวบรวมโค้ด Python [Jupyter Notebook ว�
 ที่ใช้สำหรับการวิเคราะห์เชิงสำรวจ (Exploratory Data Analysis - EDA) 
 เพื่อศึกษาโครงสร้างอายุของข้าราชการครูและบุคลากรทางการศึกษา สังกัด สพฐ. ทั่วประเทศไทย 
 
-บทความฉบับเต็มอ่านได้ที่ Medium: [คลิกเพื่ออ่านบทความบน Medium](<ใส่ลิงก์บทความ-Medium-ของคุณที่นี่>)
+บทความฉบับเต็มอ่านได้ที่ Medium: [[คลิกเพื่ออ่านบทความบน Medium](https://medium.com/@kullawadee/a15b66eb00b4])
 
 ## 📌 สรุปข้อค้นพบหลัก (Key Findings)
 1. **ภาพรวมประเทศดู "สมดุล":** กลุ่มครูจบใหม่ (21-30 ปี) มีจำนวน 162,601 คน ซึ่งใกล้เคียงกับกลุ่มครูใกล้เกษียณ (51-60 ปี) ที่มี 162,235 คน
@@ -31,6 +31,6 @@ pip install pandas matplotlib seaborn geopandas
 
 หากการวิเคราะห์นี้เป็นประโยชน์ กรุณาอ้างอิงบทความบน Medium และ repository นี้
 ```
-กุลวดี สมบูรณ์วิวัฒน์, [วิกฤตหรือสมดุล? ถอดโครงสร้างอายุข้าราชการครูไทย]. Medium. https://medium.com/@kullawadee/a15b66eb00b4.
+กุลวดี สมบูรณ์วิวัฒน์, [วิกฤตหรือสมดุล? ถอดโครงสร้างอายุข้าราชการครูไทย]. Medium. [https://medium.com/@kullawadee/a15b66eb00b4](https://bit.ly/4fBD6vZ).
 Kullawadee Somboonviwat, Thai Teacher Age Distribution EDA [Computer software] GitHub. https://github.com/anku9919/thai-teacher-age-distribution.
 ```
