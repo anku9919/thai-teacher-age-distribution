@@ -1,7 +1,7 @@
 # Thai Teachers Age Structure Analysis
 **วิกฤตหรือสมดุล? ถอดโครงสร้างอายุ "ข้าราชการครูไทย" และการกระจายตัวเชิงพื้นที่**
 
-Repository นี้รวบรวมโค้ด Python (Jupyter Notebook) 
+Repository นี้รวบรวมโค้ด Python [Jupyter Notebook วิเคราะห์โครงสร้างอายุครูไทย](https://github.com/anku9919/thai-teacher-age-distribution/raw/refs/heads/main/teacher_age_distribution.ipynb)
 ที่ใช้สำหรับการวิเคราะห์เชิงสำรวจ (Exploratory Data Analysis - EDA) 
 เพื่อศึกษาโครงสร้างอายุของข้าราชการครูและบุคลากรทางการศึกษา สังกัด สพฐ. ทั่วประเทศไทย 
 
