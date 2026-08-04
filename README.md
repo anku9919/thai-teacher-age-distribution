@@ -1,4 +1,4 @@
-# 📊 Thai Teachers Age Structure Analysis
+# Thai Teachers Age Structure Analysis
 **วิกฤตหรือสมดุล? ถอดโครงสร้างอายุ "ข้าราชการครูไทย" และการกระจายตัวเชิงพื้นที่**
 
 Repository นี้รวบรวมโค้ด Python (Jupyter Notebook) 
