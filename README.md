@@ -32,6 +32,5 @@ pip install pandas matplotlib seaborn geopandas
 หากการวิเคราะห์นี้เป็นประโยชน์ กรุณาอ้างอิงบทความบน Medium และ repository นี้
 ```
 กุลวดี สมบูรณ์วิวัฒน์, [วิกฤตหรือสมดุล? ถอดโครงสร้างอายุข้าราชการครูไทย]. Medium. https://medium.com/@kullawadee/a15b66eb00b4.
-
-Thai Teacher Age Distribution [Computer software] GitHub. https://github.com/anku9919/thai-teacher-age-distribution.
+Kullawadee Somboonviwat, Thai Teacher Age Distribution EDA [Computer software] GitHub. https://github.com/anku9919/thai-teacher-age-distribution.
 ```
